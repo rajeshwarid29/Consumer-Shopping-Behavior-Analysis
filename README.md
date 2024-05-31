@@ -1,5 +1,5 @@
 # E-Commerce Analytics 
-# Consumer-Shopping-Behavior-Analysis
+# Consumer Shopping Behavior Analysis
 
 **CONTENT**
 
