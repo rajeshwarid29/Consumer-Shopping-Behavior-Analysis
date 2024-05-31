@@ -19,7 +19,7 @@ By examining demographics, purchase history, product preferences, businesses can
 Conducted an extensive Exploratory Data Analysis (EDA) on a Kaggle dataset, centering on consumer behavior and shopping habits.
 The analysis encompassed demographic insights, product preferences, spending patterns, geographical trends, promotion effectiveness, customer loyalty, shipping preferences, satisfaction metrics, payment methods, and seasonal variations. 
 After processing, and analyzing the dataset, actionable insights were extracted to optimize marketing strategies, enhance customer satisfaction, and drive profitability.
-Utilizing Python's Pandas, NumPy, and Matplotlib libraries for analysis, these findings were further visualized using Power BI, creating interactive dashboards. Overall, the EDA facilitated a deep understanding of consumer behavior, empowering businesses to make informed decisions and achieve their objectives.
+Utilizing Python's Pandas, SeaBorn, and Matplotlib libraries for analysis, these findings were further visualized using Power BI, creating interactive dashboards. Overall, the EDA facilitated a deep understanding of consumer behavior, empowering businesses to make informed decisions and achieve their objectives.
 
 **RECOMMENDATIONS**
 
