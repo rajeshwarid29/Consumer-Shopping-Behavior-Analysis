@@ -1,6 +1,8 @@
 # E-Commerce Analytics 
 # Consumer Shopping Behavior Analysis
 
+![Consumer Behavior Analysis Project](https://github.com/user-attachments/assets/b8f53c64-0af7-4652-80d0-0b5773aa114d)
+
 **CONTENT**
 
 This project analyzes the Consumer Behavior and Shopping Habits Dataset to uncover insights into consumer preferences and purchasing behaviors. 
